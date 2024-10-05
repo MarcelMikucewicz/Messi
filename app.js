@@ -4,4 +4,6 @@ function dodaj(){
     costam = costam +1
 
     document.getElementById("h1").innerHTML = costam
+
+    // praca domowa zrobiona
 }
